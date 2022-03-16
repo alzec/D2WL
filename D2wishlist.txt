@@ -1,2 +1,3 @@
 // Pour generer : https://48klocs.github.io/wish-list-magic-wand/fingerwave.html , recuperer les id sur light.gg
 // dimwishlist:item=232928045&perks=1196733167
+dimwishlist:item=232928045&perks=201365942
